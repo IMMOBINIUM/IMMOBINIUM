@@ -4,7 +4,7 @@
 <br><br>
 <p>--- BEGIN RANDOM THINGS NO ONE CARES ---</p>
 <p>My abilities: </p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=roboto&size=25&duration=5500&pause=700&color=3D89F7&vCenter=true&width=435&lines=Java;HTML;CSS;C%23;Telegram+API;MongoDB;React;Python;PHP;are+you+tired%3F;+This+cookie+is+for+you+-%3E+%F0%9F%8D%AA+%F0%9F%A5%B0" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=roboto&size=25&duration=4500&pause=700&color=3D89F7&vCenter=true&width=435&lines=Java;HTML;CSS;C%23;Telegram+API;MongoDB;React;Python;PHP;are+you+tired%3F;+This+cookie+is+for+you+-%3E+%F0%9F%8D%AA+%F0%9F%A5%B0" alt="Typing SVG" /></a>
 <p>--- END RANDOM THINGS NO ONE CARES ---</p>
 <!--
 **IMMOBINIUM/IMMOBINIUM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
