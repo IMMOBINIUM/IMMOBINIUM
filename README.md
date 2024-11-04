@@ -1,6 +1,6 @@
 ## <h1>Helloooooooo👋</h1>
 <a href="https://github.com/IMMOBINIUM"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Wet+Paint&size=35&pause=1000&color=3D89F7&vCenter=true&width=435&lines=IMOBINIUM" alt="Typing SVG" /></a>
-<p>I make things with Java, that you can't imagine!</p>
+<p>im a developer :)</p>
 <br><br>
 <p>--- BEGIN RANDOM THINGS NO ONE CARES ---</p>
 <p>My abilities: </p>
