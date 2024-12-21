@@ -8,9 +8,9 @@
 
 </a><br>
 
-<a href="https://github.com/IMMOBINIUM">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IMMOBINIUM&show_icons=true&theme=tokyonight)</a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IMMOBINIUM&show_icons=true&theme=tokyonight)
 <br><br>
-<a href="https://github.com/IMMOBINIUM">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IMMOBINIUM&layout=compact&theme=tokyonight)</a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IMMOBINIUM&layout=compact&theme=tokyonight)
 <p>--- END RANDOM THINGS NO ONE CARES ---</p>
 <!--
 **IMMOBINIUM/IMMOBINIUM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
