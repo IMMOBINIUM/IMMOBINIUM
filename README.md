@@ -1,15 +1,51 @@
-# Helloooooooo👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=IMMOBINIUM.IMMOBINIUM" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Wet+Paint&size=35&pause=1000&color=3D89F7&vCenter=true&width=435&lines=IMMOBINIUM)](https://github.com/IMMOBINIUM)
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mobin+Mazini!;" />
+</div>
+<h3 align="center">A Mid-Level Developer from Iran<h3/>
 
-**--- BEGIN RANDOM THINGS NO ONE CARES ---**
+<br/>
 
-**My abilities:**
+<div align="center">
+ 
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:immobinium@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+ 
+</div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=roboto&size=25&duration=4500&pause=700&color=3D89F7&vCenter=true&width=435&lines=Java;HTML;CSS;C%23;Telegram+API;MongoDB;React;Python;PHP;are+you+tired%3F;+This+cookie+is+for+you+-%3E+%F0%9F%8D%AA+%F0%9F%A5%B0)](https://github.com/IMMOBINIUM)
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+  <p align="center">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript,java,rust,nodejs,html,css,vscode"
+    /><br/>
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=git,github,tailwindcss,shadcn,react,nextjs,expressjs,vite,mongodb,bootstrap"
+    /><br/>
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=discordjs,prettier,kali,burpsuite,electron,tauri,npm,nginx,telegram,discordbots,linux,api"
+    />
+    
+  </p>
+</div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IMMOBINIUM&show_icons=true&theme=tokyonight)](https://github.com/IMMOBINIUM)
+<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IMMOBINIUM&layout=compact&theme=tokyonight)](https://github.com/IMMOBINIUM)
+<hr/>
 
-**--- END RANDOM THINGS NO ONE CARES ---**
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img src="https://streak-stats.demolab.com?user=immobinium&theme=transparent" alt="GitHub Streak" />
+   <img src="https://github-readme-stats.vercel.app/api?username=IMMOBINIUM&show_icons=true&bg_color=00000000" alt="GitHub Streak" />
+</div>
+
+<br/>
